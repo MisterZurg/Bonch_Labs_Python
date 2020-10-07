@@ -1,6 +1,6 @@
 # Bonch_Labs_Python
 Here are my labs from SPbSUT
-<h2>Disciplines</h2>
+<h2>Discipline</h2>
 <li>Python
 <h2>Labs:</h2>
 <li>Lab_1 "If clause"
