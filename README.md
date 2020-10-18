@@ -1,7 +1,7 @@
 # Bonch_Labs_Python
-Here are my labs from SPbSUT
+Here are my Python labs from SPbSUT Second semester
 <h2>Discipline</h2>
-<li>Python
+<li>Языки программирования	(Python)
 <h2>Labs:</h2>
 <li>Lab_1 "If clause"
 <li>Lab_2 "If clause"
